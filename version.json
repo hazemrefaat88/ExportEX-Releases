@@ -3,6 +3,7 @@
   "allowed_versions": [
     "2.5.1",
     "2.6.0",
+    "2.6.1",
     "2.7.1"
   ],
   "channel": "stable",
