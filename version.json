@@ -2,7 +2,8 @@
   "latest_version": "2.6.0",
   "allowed_versions": [
     "2.5.1",
-    "2.6.0"
+    "2.6.0",
+    "2.7.1"
   ],
   "channel": "stable",
   "update_message": "ExportEX v2.6.0 is available. See the release notes for changes.",
