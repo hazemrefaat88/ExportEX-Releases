@@ -1,15 +1,14 @@
 {
-  "latest_version": "2.6.0",
+  "latest_version": "2.6.2",
   "allowed_versions": [
-    "2.5.1",
     "2.6.0",
     "2.6.1",
     "2.6.2"
   ],
   "channel": "stable",
-  "update_message": "ExportEX v2.6.0 is available. See the release notes for changes.",
-  "update_url": "https://github.com/hazemrefaat88/ExportEX-Releases/releases/download/v2.6.0/ExportEX_Installer_v2.6.0.exe",
-  "release_notes_url": "https://github.com/hazemrefaat88/ExportEX-Releases/releases/tag/v2.6.0",
+  "update_message": "ExportEX v2.6.2 is available. See the release notes for changes.",
+  "update_url": "https://github.com/hazemrefaat88/ExportEX-Releases/releases/download/v2.6.2/ExportEX_Installer_v2.6.2.exe",
+  "release_notes_url": "https://github.com/hazemrefaat88/ExportEX-Releases/releases/tag/v2.6.2",
   "supported_revit_years": [
     2021,
     2022,
@@ -19,5 +18,5 @@
     2026,
     2027
   ],
-  "sha256": "1f3fdda214b6bf53329ab82ca877854003a008792392df8f3732b4b5f963134a"
+  "sha256": "71fde6cf19ebb0cfde54ae8868069a45f155f20c7c72ff18b5d8718da767dbea"
 }
